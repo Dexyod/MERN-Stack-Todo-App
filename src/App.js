@@ -24,7 +24,7 @@ function App() {
           <Link to="/" className="navbar-brand">
             MERN-Stack Todo App
           </Link>
-          <div className="collapse navbar-collapse">
+          <div className="collapse nav-collapse">
             <ul className="navbar-nav mr-auto">
               <li className="navbar-item">
                 <Link to="/" className="nav-link">
