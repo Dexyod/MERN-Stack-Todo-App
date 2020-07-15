@@ -1,3 +1,4 @@
+//import mongoose and use the Schema class
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
@@ -16,4 +17,5 @@ let Todo = new Schema({
   },
 });
 
+//export module using mongoose
 module.exports = mongoose.model("Todo", Todo, "Todo");
