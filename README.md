@@ -40,14 +40,14 @@ If you want to configure the **front-end**, go to _src_ folder via the terminal.
 cd src
 ```
 
-## `Main Todo Page`
+## `Landing Todo Page`
 
-![Image of Main-Page]('img/Todo-Mern-Stack-Main-Page.png')
+![Image of Main-Page](public/img/Todo-Mern-Stack-Main-Page.png)
 
 ## `Create Todo Page`
 
-![Image of Create-Page]('img/Todo-Mern-Stack-Create-Page.png')
+![Image of Create-Page](public/img/Todo-Mern-Stack-Create-Page.png)
 
 ## `Edit Todo Page`
 
-![Image of Edit-Page]('img/Todo-Mern-Stack-Edit-Page.png')
+![Image of Edit-Page](public/img/Todo-Mern-Stack-Edit-Page.png)
